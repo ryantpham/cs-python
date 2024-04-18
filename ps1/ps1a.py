@@ -7,6 +7,10 @@ Created on Wed Apr 17 20:41:29 2024
 """
 
 def house_hunting():
+    """
+    program to calculate how many months it will take you
+    to save up enough money for a down payment
+    """
     #portion of the cost
     portion_down_payment = 0.25
     #investments earn a return of r = 0.04 (4%).
